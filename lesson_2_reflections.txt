@@ -22,3 +22,10 @@ What is the result of merging two branches together? Why do we represent it in t
 
 - Merging two branches together will make the two branches become one where the first branch that is listed/checked out will become the final branch. all of the commits from both branches will become viewable from the final branch. It shows that the differences in the reachablity of the commits.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+- 	Pros less work for the user
+	Cons it can mess up files that were edited for a specific reason
+
+= 	Pros it can for sure make the final files exactly how you want them
+	Cons alot more work
