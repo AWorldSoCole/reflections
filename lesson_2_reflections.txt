@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need it?
+
+- Do it to use Git...
+
+How is the staging area diffent from the working directory and the repository? what value do you think it offers?
+
+- Acts as an incubater for software changes that are ready to be committed. 
+
