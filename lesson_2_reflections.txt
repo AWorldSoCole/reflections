@@ -6,3 +6,7 @@ How is the staging area diffent from the working directory and the repository? w
 
 - Acts as an incubater for software changes that are ready to be committed. 
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+- By ensuring that you are added the files you make changes to the staging area. when you fully test the fix or change you will only be able to commit that one file. 
+
